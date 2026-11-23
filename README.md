@@ -47,8 +47,6 @@ Provides recommendations to improve supply chain operations and business perform
 
 ## Project Files
 - Power BI Dashboard (.pbix)
-- Dashboard Screenshots
-- Dataset (if publicly shareable)
 
 ## Disclaimer
 This project is created for learning and portfolio purposes.
